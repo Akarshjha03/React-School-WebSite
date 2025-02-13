@@ -89,3 +89,6 @@ While this is a **frontend-only design**, here are some future improvements that
 🔹 **Accessibility Improvements** - Better support for screen readers and contrast adjustments  
 
 ---
+
+## 🎯 Conclusion
+This project was an exciting experience in designing a real-world school website. Web Wizards was a great opportunity to push my UI/UX skills, work with modern web tools, and create a professional-level design. I hope you find this project interesting! Feel free to ⭐ star this repository and contribute to future improvements. 🚀
