@@ -1,6 +1,6 @@
 # 🏫 School Website Design | Web Wizards - Projections 2025 🎨 
 
-<img src="https://github.com/Akarshjha03/React-School-WebSite/blob/main/img/Screenshot%202025-02-13%20151526.png" alt="Image description" width="300" height="200">
+<img src="https://github.com/Akarshjha03/React-School-WebSite/blob/main/img/Screenshot%202025-02-13%20151526.png" alt="Image description" width="900" height="500">
 
 
 ## 🌟 About the Project  
