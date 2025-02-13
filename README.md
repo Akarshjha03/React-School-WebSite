@@ -1,6 +1,7 @@
-# 🎨 School Website Design | Web Wizards - Projections 2025 🚀  
+# 🏫 School Website Design | Web Wizards - Projections 2025 🎨 
 
-![Website Preview](your-screenshot-link-here)  
+<img src="" alt="Image description" width="300" height="200">
+
 
 ## 🌟 About the Project  
 This project was created as part of **Projections 2025**, the annual tech fest of my college. I participated in the **Web Wizards** event, where the challenge was to design an **individual website for a school**. The goal was to build an intuitive, visually stunning, and fully responsive **frontend design**.  
@@ -77,6 +78,7 @@ This project was built as part of **Projections 2025**, my college’s annual te
 ## 📢 Socials & Updates  
 🔗 **LinkedIn Post:** [Projections 2025 Event](your-linkedin-post-placeholder)  
 🔗 **GitHub Repository:** [Project Repo](your-github-repo-placeholder)  
+🔗 **Projections Link:** [Projections Page](your-github-repo-placeholder)  
 
 ---
 
@@ -92,6 +94,12 @@ While this is a **frontend-only design**, here are some future improvements that
 
 ## 🎯 Conclusion
 This project was an exciting experience in designing a real-world school website. Web Wizards was a great opportunity to push my UI/UX skills, work with modern web tools, and create a professional-level design. I hope you find this project interesting! Feel free to ⭐ star this repository and contribute to future improvements. 🚀
+
+---
+
+## 🤝 Connect With Me
+
+Linkedin - (link)
 
 ---
 
