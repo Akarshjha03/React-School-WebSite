@@ -1,50 +1,91 @@
-# React + TypeScript + Vite
+# 🎨 School Website Design | Web Wizards - Projections 2025 🚀  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Website Preview](your-screenshot-link-here)  
 
-Currently, two official plugins are available:
+## 🌟 About the Project  
+This project was created as part of **Projections 2025**, the annual tech fest of my college. I participated in the **Web Wizards** event, where the challenge was to design an **individual website for a school**. The goal was to build an intuitive, visually stunning, and fully responsive **frontend design**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Preview:** [School Website](https://zippy-stardust-3bd47c.netlify.app)  
 
-## Expanding the ESLint configuration
+## 🎯 Key Features  
+✅ **Hero Section with Smooth Animations** - Engaging intro for an immersive experience  
+✅ **Modern UI/UX Design** - Clean, aesthetic, and user-friendly  
+✅ **Mobile-Friendly & Responsive** - Optimized for all screen sizes  
+✅ **Fast Performance** - Lightweight and highly optimized  
+✅ **Easy Navigation** - User-friendly menu for better accessibility  
+✅ **Colorful Gradient Transitions** - Enhancing the design with appealing effects  
+✅ **School Highlights Section** - Showcasing academics, extracurriculars, and admission info  
+✅ **Gallery Section** - Interactive image grid displaying school life  
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+---
 
-- Configure the top-level `parserOptions` property like this:
+## 🎨 Color Palette  
+The website follows a modern and professional **color scheme** with balanced contrasts and smooth gradients.  
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+- **Primary Colors:**  
+  🎨 **Jet (#3A3335)** – Dark, strong base color  
+  🎨 **Ash Gray (#C6D8D3)** – Soft, neutral background  
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+- **Accent Colors:**  
+  🔴 **Raspberry (#D81E5B)** – Vibrant for buttons and highlights  
+  🟠 **Vermilion (#F0544F)** – Warm and energetic contrast  
+  🎗 **Papaya Whip (#FDF0D5)** – Light, airy background/section divider  
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+- **Gradient Suggestion:**  
+  ✅ **Raspberry → Vermilion → Papaya Whip** - Smooth, energetic background transitions  
+  ✅ **Ash Gray → Jet** - Sleek, modern feel for dark mode elements  
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+---
+
+## ⚙️ Tech Stack  
+This project was built using modern frontend technologies to ensure **scalability, performance, and a great user experience**.  
+
+🚀 **Frontend Development**  
+- ⚛ **React.js** - Component-based UI development  
+- 🌀 **Vite** - Fast and optimized development environment  
+- 📜 **TypeScript** - Type safety and better code maintainability  
+- 📄 **HTML5** - Semantic structure  
+- 🎨 **CSS3** - Styling and layout design  
+- 🎭 **Framer Motion** - Smooth animations  
+- 🎭 **Tailwind CSS** - Utility-first styling  
+
+🔧 **Other Technologies & Tools**  
+- 🌎 **Netlify** - Hosting and deployment  
+- 🛠 **ESLint & Prettier** - Code formatting and linting  
+- 🔍 **SEO Optimization** - Meta tags and performance improvements  
+
+---
+
+## 📸 Screenshots  
+Here are some previews of the website:  
+
+![Homepage](your-screenshot-link-here)  
+![Gallery Section](your-screenshot-link-here)  
+
+---
+
+## 🏆 Event & Participation  
+This project was built as part of **Projections 2025**, my college’s annual tech fest. I participated in the **Web Wizards** event, where the challenge was to **design a complete school website** with a focus on UI/UX.  
+
+🎭 **Event:** Web Wizards - Projections 2025  
+🏛 **College Tech Fest:** Projections 2025  
+🎨 **Task:** Build a stunning **frontend design** for a school website  
+🛠 **Category:** Web Design & Development  
+
+---
+
+## 📢 Socials & Updates  
+🔗 **LinkedIn Post:** [Projections 2025 Event](your-linkedin-post-placeholder)  
+🔗 **GitHub Repository:** [Project Repo](your-github-repo-placeholder)  
+
+---
+
+## 💡 Future Enhancements  
+While this is a **frontend-only design**, here are some future improvements that can be added:  
+🔹 **Convert to Full-Stack** - Implement backend with Node.js & Firebase  
+🔹 **Dynamic News & Announcements** - Fetch latest updates from a database  
+🔹 **Student & Teacher Login** - Authentication system for different user roles  
+🔹 **Interactive Contact Form** - Integrated with email notifications  
+🔹 **Accessibility Improvements** - Better support for screen readers and contrast adjustments  
+
+---
