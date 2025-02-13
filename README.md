@@ -77,8 +77,7 @@ This project was built as part of **Projections 2025**, my college’s annual te
 
 ## 📢 Socials & Updates  
 🔗 **LinkedIn Post:** [Projections 2025 Event](your-linkedin-post-placeholder)  
-🔗 **GitHub Repository:** [Project Repo](your-github-repo-placeholder)  
-🔗 **Projections Link:** [Projections Page](your-github-repo-placeholder)  
+🔗 **Projections Link:** [Projections Page](https://www.linkedin.com/company/projections-techfest/?originalSubdomain=in)  
 
 ---
 
@@ -99,8 +98,7 @@ This project was an exciting experience in designing a real-world school website
 
 ## 🤝 Connect With Me
 
-Linkedin - (link)
-
+**Linkedin:** [Profile](https://www.linkedin.com/in/akarshjha03/)
 ---
 
 ## 📌 If you like this project, don't forget to ⭐ star the repo! 😊
