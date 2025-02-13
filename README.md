@@ -60,7 +60,8 @@ This project was built using modern frontend technologies to ensure **scalabilit
 ## 📸 Screenshots  
 Here are some previews of the website:  
 
-![Homepage](your-screenshot-link-here)  
+<img src="https://github.com/user-attachments/assets/5de7595d-6cac-4653-be2f-25e8c6ac9e5b" alt="Image description" width="800" height="400">
+
 ![Gallery Section](your-screenshot-link-here)  
 
 ---
