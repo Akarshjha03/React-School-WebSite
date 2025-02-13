@@ -57,14 +57,6 @@ This project was built using modern frontend technologies to ensure **scalabilit
 
 ---
 
-## 📸 Screenshots  
-Here are some previews of the website:  
-
-<img src="https://github.com/user-attachments/assets/5de7595d-6cac-4653-be2f-25e8c6ac9e5b" alt="Image description" width="600" height="350">
-<img src="https://github.com/user-attachments/assets/8e0b0967-26fa-4c40-b920-f030f5822669" alt="Image description" width="600" height="350">
-
----
-
 ## 🏆 Event & Participation  
 This project was built as part of **Projections 2025**, my college’s annual tech fest. I participated in the **Web Wizards** event, where the challenge was to **design a complete school website** with a focus on UI/UX.  
 
