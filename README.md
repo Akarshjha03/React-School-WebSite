@@ -68,7 +68,7 @@ This project was built as part of **Projections 2025**, my college’s annual te
 ---
 
 ## 📢 Socials & Updates  
-🔗 **LinkedIn Post:** [Projections 2025 Event](your-linkedin-post-placeholder)  
+🔗 **LinkedIn Post:** [Projections 2025 Event](https://www.linkedin.com/posts/akarshjha03_webdevelopment-uiux-reactjs-activity-7302277981723361280-erg5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmFKGAB2qrGBXOkJV4YDZn5m2yMFWx6yHc)  
 🔗 **Projections Link:** [Projections Page](https://www.linkedin.com/company/projections-techfest/?originalSubdomain=in)  
 
 ---
